@@ -1,0 +1,10 @@
+{"España": "madrid",
+"Francia": "paris",
+"Albania": "tirania",
+"Alemania": "berlin",
+"Austria": "viena",
+"Azerbaiyán": "baku",
+"Bélgica": "bruselas",
+"Bulgaria": "sofia",
+"Finlandia": "helsinki",
+"Islandia": "reikiavik"}

@@ -1,0 +1,10 @@
+{"India": "nueva delhi",
+"Irán": "teheran",
+"Japón": "tokio",
+"Líbano": "beirut",
+"China": "pekin",
+"Nepal": "katmandu",
+"Qatar": "doha",
+"Corea del Sur": "seul",
+"Tailandia": "bangkok",
+"Taiwán": "taipei"}
